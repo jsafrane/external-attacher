@@ -7,16 +7,16 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/evanphx/json-patch v4.9.0+incompatible
 	github.com/golang/mock v1.4.3
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.4.3
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/kubernetes-csi/csi-lib-utils v0.9.0
 	github.com/kubernetes-csi/csi-test/v3 v3.1.0
-	google.golang.org/grpc v1.29.0
-	k8s.io/api v0.19.3
-	k8s.io/apimachinery v0.19.3
-	k8s.io/client-go v0.19.0
-	k8s.io/csi-translation-lib v0.19.3
-	k8s.io/klog/v2 v2.2.0
+	google.golang.org/grpc v1.31.0
+	k8s.io/api v0.20.0
+	k8s.io/apimachinery v0.20.0
+	k8s.io/client-go v0.20.0
+	k8s.io/csi-translation-lib v0.20.0
+	k8s.io/klog/v2 v2.4.0
 )
 
 replace k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.19.0
